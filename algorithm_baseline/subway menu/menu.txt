@@ -1,0 +1,393 @@
+<샌드위치>
+[menu:B.L.T.]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:치킨 데리야끼]
+[start]밀, 대두, 토마토, 닭고기[end]
+
+[menu:에그마요]
+[start]밀, 계란, 대두, 토마토, 우유, 조개류(굴 전복 홍합 포함)[end]
+
+[menu:햄]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:이탈리안 비엠티]
+[start]밀, 대두, 토마토, 대두, 돼지고기[end]
+
+[menu:K-바비큐]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:미트볼]
+[start]밀, 대두, 토마토, 쇠고기, 닭고기[end]
+
+[menu:풀드 포크 바비큐]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:로스트 치킨]
+[start]밀, 대두, 토마토, 쇠고기, 닭고기[end]
+
+[menu:로티세리 바비큐 치킨]
+[start]밀, 대두, 토마토, 닭고기[end]
+
+[menu:쉬림프]
+[start]밀, 대두, 토마토, 새우[end]
+
+[menu:스파이시 이탈리안]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:스테이크 & 치즈 (아메리칸 치즈 포함)]
+[start]밀, 우유, 대두, 토마토, 쇠고기[end]
+
+[menu:써브웨이 클럽]
+[start]밀, 대두, 토마토, 돼지고기, 닭고기[end]
+
+[menu:베지]
+[start]밀, 대두, 토마토[end]
+
+[menu:참치]
+[start]밀, 계란, 대두, 토마토[end]
+
+[menu:터키]
+[start]밀, 대두, 토마토[end]
+
+[menu:터키 베이컨 아보카도]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:스파이시 쉬림프]
+[start]밀, 우유, 대두, 토마토, 새우 [end]
+
+[menu:스파이시 쉬림프 아보카도]
+[start]밀, 우유, 대두, 토마토, 새우 [end]
+
+[menu:머쉬룸]
+[start]밀, 토마토, 우유, 대두, 쇠고기, 조개류(굴 전복 홍합 포함)[end]
+
+[menu:치킨 슬라이스]
+[start]밀, 대두, 토마토, 닭고기[end]
+
+[menu:치킨 베이컨 아보카도]
+[start]밀, 대두, 토마토, 돼지고기, 닭고기[end]
+
+[menu:스파이시 바비큐]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:에그마요 베이컨]
+[start]밀, 계란, 대두, 토마토, 돼지고기, 우유, 조개류(굴 전복 홍합 포함)[end]
+
+[menu:에그마요 페퍼로니]
+[start]밀, 계란, 대두, 토마토, 돼지고기, 우유, 조개류(굴 전복 홍합 포함)[end]
+
+<랩/그릴드 랩>
+[menu:치킨 베이컨 미니 랩]
+[start]밀,	계란, 우유, 대두, 쇠고기, 돼지고기, 닭고기[end]
+
+[menu:쉬림프 에그마요 랩]
+[start]밀,	계란, 우유, 토마토, 대두, 조개류(굴 전복 홍합 포함)[end]
+
+[menu:스테이크 & 치즈 아보카도 랩]
+[start]밀,	우유, 대두, 토마토, 쇠고기[end]
+
+[menu:치킨 베이컨 미니 그릴드 랩]
+[start]밀, 계란, 우유, 대두, 쇠고기, 돼지고기, 닭고기[end]
+
+[menu:쉬림프 에그 그릴드 랩]
+[start]밀, 계란, 우유, 대두, 토마토, 새우[end]
+
+[menu:스테이크 & 치즈 아보카도 랩]
+[start]밀, 계란, 우유, 대두, 토마토, 쇠고기[end]
+
+<샐러드>
+[menu:B.L.T.]
+[start]토마토, 돼지고기[end]
+
+[menu:치킨 데리야끼]
+[start]밀, 대두, 토마토, 닭고기[end]
+
+[menu:에그마요]
+[start]계란, 토마토, 밀, 우유, 대두, 조개류(굴 전복 홍합 포함)[end]
+
+[menu:햄]
+[start]토마토, 돼지고기[end]
+
+[menu:이탈리안 비엠티]
+[start]토마토, 돼지고기[end]
+
+[menu:K-바비큐]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+[menu:풀드 포크 바비큐]
+[start]밀, 토마토, 돼지고기[end]
+
+[menu:로스트 치킨]
+[start]토마토, 쇠고기, 닭고기[end]
+
+[menu:로티세리 바비큐 치킨]
+[start]대두, 토마토, 닭고기[end]
+
+[menu:쉬림프]
+[start]토마토, 새우[end]
+
+[menu:스파이시 이탈리안]
+[start]토마토, 돼지고기[end]
+
+[menu:스테이크 & 치즈 (아메리칸 치즈 포함)]
+[start]우유, 대두, 토마토, 쇠고기[end]
+
+[menu:써브웨이 클럽]
+[start]토마토, 돼지고기[end]
+
+[menu:베지]
+[start]토마토[end]
+
+[menu:참치]
+[start]계란, 토마토[end]
+
+[menu:터키]
+[start]토마토[end]
+
+[menu:터키 베이컨 아보카도]
+[start]토마토, 돼지고기[end]
+
+[menu:스파이시 쉬림프]
+[start]우유, 토마토, 새우[end]
+
+[menu:스파이시 쉬림프 아보카도]
+[start]우유, 토마토, 새우[end]
+
+[menu:머쉬룸]
+[start]토마토, 밀, 우유, 대두, 쇠고기, 조개류(굴 전복 홍합 포함)[end]
+
+[menu:치킨 슬라이스]
+[start]토마토, 닭고기[end]
+
+[menu:치킨 베이컨 아보카도]
+[start]토마토, 돼지고기, 닭고기[end]
+
+[menu:스파이시 바비큐]
+[start]밀, 대두, 토마토, 돼지고기[end]
+
+<아침메뉴>
+[menu:베이컨, 에그 & 치즈]
+[start]밀, 계란, 우유, 대두, 돼지고기[end]
+
+[menu:햄, 에그 & 치즈]
+[start]밀, 계란, 우유, 대두, 돼지고기[end]
+
+[menu:스테이크, 에그 & 치즈]
+[start]밀, 계란, 우유, 대두, 쇠고기[end]
+
+[menu:웨스턴, 에그 & 치즈]
+[start]밀, 계란, 우유, 대두, 토마토, 돼지고기[end]
+
+[menu:베이컨, 에그 & 치즈 그릴드 랩]
+[start]밀, 계란, 우유, 대두, 돼지고기[end]
+
+[menu:햄, 에그 & 치즈 그릴드 랩]
+[start]밀, 계란, 우유, 대두, 돼지고기[end]
+
+[menu:스테이크, 에그 & 치즈 그릴드 랩]
+[start]밀, 계란, 우유, 대두, 쇠고기[end]
+
+[menu:웨스턴, 에그 & 치즈 그릴드 랩]
+[start]밀, 계란, 우유, 대두, 토마토, 돼지고기[end]
+
+<스마일썹>
+[menu:베이크 포테이토 수프]
+[start]밀, 우유, 돼지고기, 닭고기[end]
+
+[menu:브로콜리 체다 수프]
+[start]우유[end]
+
+[menu:머쉬룸 수프]
+[start]밀, 우유[end]
+
+[menu:해시 브라운]
+[start]대두[end]
+
+[menu:웨지 포테이토]
+[start]밀, 대두[end]
+
+[menu:Cheesy 웨지 포테이토]
+[start]밀, 우유, 대두[end]
+
+[menu:Bacon Cheesy 웨지 포테이토]
+[start]밀, 우유, 대두, 돼지고기[end]
+
+[menu:초코칩]
+[start]밀, 계란, 우유, 대두, 땅콩, 호두[end]
+
+[menu:더블 초코칩]
+[start]밀, 계란, 우유, 대두, 땅콩, 호두[end]
+
+[menu:오트밀 레이즌]
+[start]밀, 계란, 우유, 대두, 땅콩, 호두[end]
+
+[menu:라즈베리 치즈케익]
+[start]밀, 계란, 우유, 대두, 땅콩, 호두[end]
+
+[menu:화이트 초코 마카다미아]
+[start]밀, 계란, 우유, 대두, 땅콩, 호두[end]
+
+<빵>
+[menu:플랫 브레드]
+[start]밀, 우유, 대두[end]
+
+[menu:허니오트]
+[start]밀, 대두[end]
+
+[menu:파마산 오레가노]
+[start]밀, 우유, 대두[end]
+
+[menu:위트]
+[start]밀, 대두[end]
+
+[menu:화이트]
+[start]밀, 대두[end]
+
+[menu:통밀 랩]
+[start]밀[end]
+
+<미트류>
+[menu:베이컨 비츠]
+[start]돼지고기[end]
+
+[menu:베이컨]
+[start]돼지고기[end]
+
+[menu:치킨 데리야끼]
+[start]밀, 대두, 닭고기[end]
+
+[menu:에그마요]
+[start]계란밀, 우유, 대두, 조개류(굴 전복 홍합 포함)[end]
+
+[menu:오믈렛]
+[start]계란, 우유, 대두[end]
+
+[menu:햄]
+[start]돼지고기[end]
+
+[menu:K-바비큐]
+[start]밀, 대두, 돼지고기[end]
+
+[menu:미트볼]
+[start]대두, 토마토, 쇠고기, 닭고기[end]
+
+[menu:페퍼로니]
+[start]돼지고기[end]
+
+[menu:풀드 포크 바비큐]
+[start]밀, 대두, 돼지고기[end]
+
+[menu:로스트 치킨]
+[start]쇠고기, 닭고기[end]
+
+[menu:로티세리 바비큐 치킨]
+[start]대두, 닭고기[end]
+
+[menu:살라미]
+[start]돼지고기[end]
+
+[menu:쉬림프]
+[start]새우[end]
+
+[menu:스테이크]
+[start]대두, 쇠고기[end]
+
+[menu:참치]
+[start]계란[end]
+
+[menu:터키]
+[start][end]
+
+[menu:스파이시 쉬림프]
+[start]우유, 새우[end]
+
+[menu:머쉬룸]
+[start]밀, 우유, 대두, 토마토, 쇠고기, 조개류[end]
+
+<소스 & 드레싱>
+[menu:머스타드]
+[start][end]
+
+[menu:허니 머스타드]
+[start]계란, 우유, 대두[end]
+
+[menu:홀스 래디쉬]
+[start]계란, 대두[end]
+
+[menu:핫 칠리]
+[start]밀, 대두, 토마토[end]
+
+[menu:케첩]
+[start]토마토[end]
+
+[menu:마리나라]
+[start]토마토, 닭고기[end]
+
+[menu:마요네즈]
+[start]계란[end]
+
+[menu:올리브 오일]
+[start][end]
+
+[menu:랜치]
+[start]계란, 우유[end]
+
+[menu:레드와인식초]
+[start]아황산류[end]
+
+[menu:스모크 바비큐]
+[start]밀, 대두, 토마토, 조개류(굴 전복 홍합 포함), 아황산류[end]
+
+[menu:NEW 사우스 웨스트 치폴레]
+[start]계란, 우유[end]
+
+[menu:스위트 칠리]
+[start]토마토[end]
+
+[menu:스위트 어니언]
+[start]우유, 대두[end]
+
+[menu:이탈리안 드레싱]
+[start]밀, 우유, 대두[end]
+
+[menu:스파이시 바비큐]
+[start]밀, 대두[end]
+
+<치즈>
+[menu:아메리칸 치즈]
+[start]우유, 대두[end]
+
+[menu:모차렐라 치즈]
+[start]우유[end]
+
+[menu:슈레드 치즈]
+[start]우유[end]
+
+<야채>
+[menu:아보카도]
+[start][end]
+
+[menu:오이]
+[start][end]
+
+[menu:피망]
+[start][end]
+
+[menu:할라피뇨]
+[start][end]
+
+[menu:양상추]
+[start][end]
+
+[menu:올리브]
+[start][end]
+
+[menu:양파]
+[start][end]
+
+[menu:피망]
+[start][end]
+
+[menu:토마토]
+[start]토마토[end]
